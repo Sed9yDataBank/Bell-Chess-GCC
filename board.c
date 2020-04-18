@@ -1,4 +1,5 @@
 #include "common.h"
+#include "ai.h"
 
 /*
  * Representation Of Board In Memory
